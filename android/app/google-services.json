@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248354092705",
+    "project_id": "wheel-wisher",
+    "storage_bucket": "wheel-wisher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248354092705:android:0af3ce7dc7bd56d72fa2e0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248354092705-i8hpo84a6r2bilctrkbljskrq5hpbckb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtoICFOq3z5THQtbkpXisPE2SR3m0LoGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248354092705-i8hpo84a6r2bilctrkbljskrq5hpbckb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
